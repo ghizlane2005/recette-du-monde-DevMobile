@@ -5,7 +5,7 @@ export default function Menu() {
   const [showMore, setShowMore] = useState(false);
 
   function handleNextClick() {
-    setIndex((index + 1) % dishList.length); // revient au début
+    setIndex((index + 1) % dishList.length);
   }
 
   function handlePrevClick() {
@@ -21,8 +21,8 @@ export default function Menu() {
   return (
     <section style={styles.card}>
       <div style={styles.country}>
-        <img 
-          src={`https://flagcdn.com/w40/${dish.isoCode.toLowerCase()}.png`} 
+        <img
+          src={`https://flagcdn.com/w40/${dish.isoCode.toLowerCase()}.png`}
           alt={dish.country}
           style={{ width: '24px', verticalAlign: 'middle', marginRight: '8px' }}
         />

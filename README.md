@@ -1,6 +1,6 @@
 # 🌐 RECETTE DU MONDE — CULINARY INTERFACE
 
-![Recette du Monde Preview](file:///C:/Users/LENOVO/.gemini/antigravity/brain/44bc529c-bcc2-4f6b-96bf-17a25400963e/recette_du_monde_preview_1776439035102.png)
+
 
 ## ⚡ NEON GASTRONOMY
 **Recette du Monde** is a premium, cyberpunk-inspired mobile application designed to explore the global art of cooking. Built with **React Native** and **Expo**, it offers a futuristic data-driven experience for food enthusiasts who want to discover authentic recipes with a state-of-the-art interface.
